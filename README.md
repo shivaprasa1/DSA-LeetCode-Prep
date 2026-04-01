@@ -4,26 +4,6 @@ Welcome to my Data Structures & Algorithms (DSA) journey 👨‍💻
 
 I solve problems daily on LeetCode and upload my solutions here to track progress and improve problem-solving skills.
 
----
-
-## 📅 Progress Tracker
-
-### 🟢 Day 1
-
-* ✔ 7 - Reverse Integer
-* ✔ 9 - Palindrome Number
-
-### 🟢 Day 2
-
-* ✔ 258 - Add Digits
-* ✔ 1281 - Subtract Product and Sum
-
-### 🟢 Day 3
-
-* ✔ 2520 - Count Digits
-* ✔ 1342 - Number of Steps to Reduce to Zero
-
----
 
 ## 🧠 Topics Covered
 
