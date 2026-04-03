@@ -17,3 +17,14 @@ class Solution:
                 num //= 10
             num = total
         return num
+
+
+#approch - 02
+num=123456
+while len(str(num))>1:
+    sum=0
+    for i in str(num):
+        sum+=int(i)
+    num=sum
+print(num)
+            

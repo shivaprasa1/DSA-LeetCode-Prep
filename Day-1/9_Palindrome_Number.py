@@ -20,3 +20,7 @@ class Solution:
             x //= 10
 
         return temp == rev
+    
+#approch - 02
+num=121
+print(int(str(num)[::-1]) == num)  

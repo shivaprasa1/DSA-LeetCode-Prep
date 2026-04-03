@@ -21,12 +21,9 @@ class Solution:
         return sign * rev 
 
 
-
-
 #approch - 02
 
 sign = -1 if x < 0 else 1
 x=abs(x)
-ans=sign*int(str(x)[::-1]))
+ans=sign*int(str(x)[::-1])
 return ans
-

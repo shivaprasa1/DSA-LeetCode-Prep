@@ -17,3 +17,5 @@ class Solution:
             n //= 10
 
         return product - sum_val
+
+

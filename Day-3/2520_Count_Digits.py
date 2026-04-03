@@ -14,3 +14,11 @@ class Solution:
                 count += 1
             temp //= 10
         return count
+
+#approch - 02
+num=12
+count=0
+for i in str(num):
+    if num%int(i)==0:
+        count+=1
+print(count)
